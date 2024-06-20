@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Complete the project report",
+    "description": "Finish the final draft of the project report by including the feedback from the team.",
+    "dueDate": "2024-06-25T00:00:00Z"
+  },
+  {
+    "title": "Prepare presentation slides",
+    "description": "Create slides for the upcoming project presentation with a focus on key achievements.",
+    "dueDate": "2024-06-26T00:00:00Z"
+  },
+  {
+    "title": "Team meeting",
+    "description": "Hold a team meeting to discuss the project progress and next steps.",
+    "dueDate": "2024-06-24T00:00:00Z"
+  },
+  {
+    "title": "Client feedback review",
+    "description": "Review the feedback provided by the client and plan the necessary changes.",
+    "dueDate": "2024-06-27T00:00:00Z"
+  },
+  {
+    "title": "Code review",
+    "description": "Conduct a thorough review of the new code changes before merging into the main branch.",
+    "dueDate": "2024-06-28T00:00:00Z"
+  }
+]
